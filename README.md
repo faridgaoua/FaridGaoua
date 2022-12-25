@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **faridgaoua8@gmail.com**
 
-- ⚡ Fun fact **I like to solve problems and go do workout very often.**
+- ⚡ Fun fact **I like to Read Books, Solve problems and do workout very often.**
 
 ## 🚀 Languages and Tools:
 
