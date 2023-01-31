@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[NFT Marketplace](https://homestyle.com.dz/)**
+- 🔭 I’m currently working on **[NFT Marketplace](https://icy-surf-5297.on.fleek.co/)**
 
 - 🌱 I’m currently learning **Solidity Data Structures and Less Costs Contract.**
 
